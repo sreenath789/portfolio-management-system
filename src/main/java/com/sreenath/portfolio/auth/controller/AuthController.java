@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController //added comments from the master branch
 @RequiredArgsConstructor
 @RequestMapping("/api/v1/auth") //removed comments in the auth controller
+//again added
 //again added comments from the master branch
 public class AuthController {
 
