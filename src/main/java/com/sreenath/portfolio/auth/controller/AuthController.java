@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@RestController //added comments from the master branch
 @RequiredArgsConstructor
 @RequestMapping("/api/v1/auth") //added comments in the auth controller
 public class AuthController {
